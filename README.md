@@ -3,7 +3,7 @@ KDE Plasma Konsole (Terminal) color  scheme based on Catppuccin Mocha (Sky) with
 
 To install this theme:
 Clone the repository
-<code>git clone https://Jayy-Dev/Konsole-Sky-Dark.git</code>
+<code>git clone https://github.com/Jayy-Dev/Konsole-Sky-Dark.git</code>
 change directory
 <code>cd Konsole-Sky-Dark</code>
 change the permission to executable
